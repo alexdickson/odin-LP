@@ -90,7 +90,7 @@ ul {
     margin-bottom:-15px;
 }
 
-.signup {
+a.signup {
     display:flex;
     padding:10px 40px;
     border-radius:7px;
